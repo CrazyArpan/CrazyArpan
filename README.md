@@ -84,10 +84,9 @@ An interactive **quiz platform** built using **Next.js and MySQL**. It allows ad
 
 ---
 
-## 🔥 Fun Animations  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CrazyArpan/CrazyArpan/main/assets/coding.gif" width="400px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 </p>
 
 <p align="center">
