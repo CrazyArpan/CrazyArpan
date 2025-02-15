@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arpan  
 
-🚀 **Frontend Developer | React & Next.js Enthusiast | Tech Innovator**  
+🚀 **Fullstack Developer | React & Next.js Enthusiast | Tech Innovator**  
 
 ![Profile Banner](https://your-banner-url.com/banner.png)  
 
@@ -49,9 +49,9 @@ I'm passionate about building interactive and dynamic web applications. Currentl
 An **e-commerce platform** built with **Next.js, React, and Node.js** that offers a seamless shopping experience.  
 🔗 [SwiftCart Repository](https://github.com/CrazyArpan/SwiftCart)  
 
-### 🧠 MindMap  
-A **visual mind-mapping tool** designed to help users organize and connect their thoughts effectively. Built using **React, Next.js, and Firebase**.  
-🔗 [MindMap Repository](https://github.com/CrazyArpan/MindMap)  
+### 🎯 Tech Quiz  
+An interactive **quiz platform** built using **Next.js and MySQL**. It allows admins to manage questions and users to participate in live quizzes.  
+🔗 [Tech Quiz Repository](https://github.com/CrazyArpan/Tech-Quiz)  
 
 ---
 
@@ -80,6 +80,18 @@ A **visual mind-mapping tool** designed to help users organize and connect their
   <a href="https://3d-portfolio-two-omega.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" />
   </a>
+</p>
+
+---
+
+## 🔥 Fun Animations  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CrazyArpan/CrazyArpan/main/assets/coding.gif" width="400px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&width=600&lines=Thanks+for+visiting!+Keep+coding!;Happy+to+connect!;Let%27s+build+something+amazing!" />
 </p>
 
 ---
