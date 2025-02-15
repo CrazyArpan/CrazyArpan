@@ -10,7 +10,7 @@ I'm passionate about building interactive and dynamic web applications. Currentl
 
 - 🌱 **Currently Learning:** Advanced React patterns, Next.js, and backend integrations  
 - 💬 **Ask me about:** JavaScript, React, Next.js, and frontend development  
-- 📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)  
+- 📫 **How to reach me:** [your-email@example.com](mailto:arpabdas02@gmail.com)  
 - ⚡ **Fun fact:** I love solving puzzles and playing chess in my free time  
 
 ## 🛠️ Tech Stack  
@@ -37,19 +37,9 @@ I'm passionate about building interactive and dynamic web applications. Currentl
 
 ### 🛒 SwiftCart  
 An **e-commerce platform** built with **Next.js, React, and Node.js** that offers a seamless shopping experience.  
-🔗 [SwiftCart Repository](https://github.com/yourusername/swiftcart)  
+🔗 [SwiftCart Repository]([https://github.com/yourusername/swiftcart](https://github.com/CrazyArpan/SwiftCart))  
 
-### 🧠 MindMap  
-A **visual mind-mapping tool** designed to help users organize and connect their thoughts effectively. Built using **React, Next.js, and Firebase**.  
-🔗 [MindMap Repository](https://github.com/yourusername/mindmap)  
 
-### 🎵 Musicify  
-A **music streaming app** that allows users to browse, stream, and create playlists. Built with **React and Firebase**.  
-🔗 [Musicify Repository](https://github.com/yourusername/musicify)  
-
-### 📢 Noitify  
-A **real-time notification system** developed using **Next.js, Socket.io, and Node.js**.  
-🔗 [Noitify Repository](https://github.com/yourusername/noitify)  
 
 ## 📊 GitHub Stats  
 
@@ -58,9 +48,7 @@ A **real-time notification system** developed using **Next.js, Socket.io, and No
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arpan-das-mca/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)]([https://yourportfolio.com](https://3d-portfolio-two-omega.vercel.app/))  
 
 ---
-
-Let me know if you need any more changes or if you'd like to add additional sections! 🚀
