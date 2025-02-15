@@ -2,7 +2,8 @@
 
 🚀 **Fullstack Developer | React & Next.js Enthusiast | Tech Innovator**  
 
-![Profile Banner]([https://your-banner-url.com/banner.png](https://github.com/CrazyArpan/profile-assets/blob/main/github.webp))  
+![Profile Banner](https://github.com/CrazyArpan/profile-assets/blob/main/github.webp)
+  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Interactive+Web+Apps;Passionate+about+Learning+%26+Creating" />
