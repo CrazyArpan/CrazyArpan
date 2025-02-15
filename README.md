@@ -1,17 +1,25 @@
 # Hi there! 👋 I'm Arpan  
 
-🚀 Frontend Developer | React & Next.js Enthusiast | Tech Innovator  
+🚀 **Frontend Developer | React & Next.js Enthusiast | Tech Innovator**  
 
 ![Profile Banner](https://your-banner-url.com/banner.png)  
 
-## About Me  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Interactive+Web+Apps;Passionate+about+Learning+%26+Creating" />
+</p>  
+
+---
+
+## 🚀 About Me  
 
 I'm passionate about building interactive and dynamic web applications. Currently, I'm diving deep into React, Next.js, and backend technologies to enhance my development skills.  
 
 - 🌱 **Currently Learning:** Advanced React patterns, Next.js, and backend integrations  
 - 💬 **Ask me about:** JavaScript, React, Next.js, and frontend development  
-- 📫 **How to reach me:** [your-email@example.com](mailto:arpabdas02@gmail.com)  
+- 📫 **How to reach me:** [arpabdas02@gmail.com](mailto:arpabdas02@gmail.com)  
 - ⚡ **Fun fact:** I love solving puzzles and playing chess in my free time  
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -33,22 +41,47 @@ I'm passionate about building interactive and dynamic web applications. Currentl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
+---
+
 ## 🚀 Featured Projects  
 
 ### 🛒 SwiftCart  
 An **e-commerce platform** built with **Next.js, React, and Node.js** that offers a seamless shopping experience.  
-🔗 [SwiftCart Repository]([https://github.com/yourusername/swiftcart](https://github.com/CrazyArpan/SwiftCart))  
+🔗 [SwiftCart Repository](https://github.com/CrazyArpan/SwiftCart)  
 
+### 🧠 MindMap  
+A **visual mind-mapping tool** designed to help users organize and connect their thoughts effectively. Built using **React, Next.js, and Firebase**.  
+🔗 [MindMap Repository](https://github.com/CrazyArpan/MindMap)  
 
+---
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrazyArpan&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrazyArpan&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrazyArpan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazyArpan&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyArpan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arpan-das-mca/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)]([https://yourportfolio.com](https://3d-portfolio-two-omega.vercel.app/))  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpan-das-mca/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://3d-portfolio-two-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" />
+  </a>
+</p>
 
 ---
+
+✨ **Thanks for visiting! Happy Coding!** 🚀
