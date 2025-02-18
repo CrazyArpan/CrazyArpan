@@ -78,7 +78,7 @@ An interactive **quiz platform** built using **Next.js and MySQL**. It allows ad
   <a href="https://www.linkedin.com/in/arpan-das-mca/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[(https://arpan-portfolio-rose.vercel.app)](https://arpan-portfolio-rose.vercel.app/)/">
+  <a href="https://arpan-portfolio-rose.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" />
   </a>
 </p>
