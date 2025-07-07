@@ -88,7 +88,7 @@ I'm a passionate **Fullstack Developer** specializing in **React, Next.js, and b
   <a href="https://www.linkedin.com/in/arpan-das-mca/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://arpan-portfolio-rose.vercel.app/">
+  <a href="[https://arpan-portfolio-rose.vercel.app/](https://full-stack-3-d-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge" />
   </a>
   <a href="https://github.com/CrazyArpan">
